@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PruebaTest.Models.Producto>
+
+@{
+    ViewData["Title"] = "ListarProductos";
+}
+
+<h1>ListarProductos</h1>
+
+<form  asp-action="ListarProductos">
+
+    @Html.TextBox("id","" ,new {@class="form-control"})
+    <input type="submit" class="btn btn-secondary" value=" Buscar" />
+
+</form>
+
+
+<table class="table  table-stripper">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdProducto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCategoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model != null)
+        {
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdProducto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreCategoria)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Editar", "ActualizarProducto", new {  id=item.IdProducto }) |
+
+                        @Html.ActionLink("Eliminar", "EliminarProducto" ,new { id=item.IdProducto })
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

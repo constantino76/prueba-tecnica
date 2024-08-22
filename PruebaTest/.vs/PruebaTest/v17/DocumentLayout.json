@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\views\\home\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:views\\home\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|c:\\ronal_dretana_testunit (1)\\ronal_dretana_testunit\\pruebatest\\views\\home\\listarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A42BAB8-7C06-4ED8-AA70-7499C246905F}|PruebaTest.csproj|solutionrelative:views\\home\\listarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListarProductos.cshtml",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Home\\ListarProductos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ListarProductos.cshtml",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Home\\ListarProductos.cshtml",
+              "RelativeToolTip": "Views\\Home\\ListarProductos.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:02:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:02:53.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:53.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Data\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Data\\BaseDatos.cs",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Data\\BaseDatos.cs",
+              "RelativeToolTip": "Data\\BaseDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:02:53.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Home\\AgregarCategoria.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AgregarCategoria.cshtml",
+              "ToolTip": "C:\\Ronal_dRetana_TestUnit (1)\\Ronal_dRetana_TestUnit\\PruebaTest\\Views\\Home\\AgregarCategoria.cshtml",
+              "RelativeToolTip": "Views\\Home\\AgregarCategoria.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:02:52.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
